@@ -11,7 +11,7 @@ class Notepad():
     filename="none"
     def clear(self,event=""):
         self.txtbox.delete(1.0,END)
-    ##########  Open Menu ######     if  not s.strip() and self.filename=="none" :
+    ##########  Open Menu----------------------if  not s.strip() and self.filename=="none" :
     def open(self):
         s=self.txtbox.get(1.0,END)
         if not  s.strip() and self.filename=="none" :
@@ -173,7 +173,7 @@ class Notepad():
         self.filemenu.add_command(label="Save as",command=self.saveas)
         self.filemenu.add_separator()
         self.filemenu.add_command(label="Page Setup")
-        self.filemenu.add_command(label="Print""                           Ctrl+P")
+        self.filemenu.add_command(label="Print""                            Ctrl+P")
         self.filemenu.add_separator()
         self.filemenu.add_command(label="Exit" , command=self.exit)
 
