@@ -8,4 +8,6 @@ The Notepad App in Python is a simple and similar version of the text editor app
 
 
 #Run command
+
+
 Run CustomNotepad.py
