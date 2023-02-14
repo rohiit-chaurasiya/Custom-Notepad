@@ -7,7 +7,7 @@ The Notepad App in Python is a simple and similar version of the text editor app
  The design of this is so simple that the user won’t find difficulties while working on it. This project is easy to operate and understood by the users.
 
 
-# How To Run The Project?
+# How To Run The Project? 
 
 To run this project, you must have installed Python on your PC. After downloading the project, you have to follow the steps below:
 
