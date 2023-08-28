@@ -7,8 +7,12 @@ This is a Customized Notepad project. A Customized Notepad using python. Not onl
 
 To run this project, you must have installed Python on your PC.
 
-Clone this repository - git clone https://github.com/RohitAayushmaan/Custom-Notepad.git
+Clone this repository - 
+```sh
+git clone https://github.com/RohitAayushmaan/Custom-Notepad.git
+```
 
 Go inside the project folder and run this command:
-
+```sh
 python CustomNotepad.py
+```8
