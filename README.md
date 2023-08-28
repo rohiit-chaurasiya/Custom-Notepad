@@ -1,20 +1,14 @@
 # Custom-Notepad
 
-The Notepad App in Python is a simple and similar version of the text editor application. In this application, you can create text documents easily. In this system has various features intact within it. It will provide you the controls for editing texts and styling them. 
-
- This is a small project of a notepad app built with Tkinter and MySQL.  
- 
- The design of this is so simple that the user won’t find difficulties while working on it. This project is easy to operate and understood by the users.
+This is a Customized Notepad project. A Customized Notepad using python. Not only you can write text file, but you can change font style, font colour, alignment of text, theme colour, font size. Also, you can save and open file and edit using the customized features.
 
 
 # How To Run The Project? 
 
-To run this project, you must have installed Python on your PC. After downloading the project, you have to follow the steps below:
+To run this project, you must have installed Python on your PC.
 
-Step1: Extract/Unzip the file
+Clone this repository - git clone https://github.com/RohitAayushmaan/Custom-Notepad.git
 
+Go inside the project folder and run this command:
 
-Step2: Go inside the project folder, open cmd then type RUN CustomNotepad.py and enter to start the system.
-
-
-Run CustomNotepad.py
+python CustomNotepad.py
