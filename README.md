@@ -15,4 +15,4 @@ git clone https://github.com/RohitAayushmaan/Custom-Notepad.git
 Go inside the project folder and run this command:
 ```sh
 python CustomNotepad.py
-```8
+```
